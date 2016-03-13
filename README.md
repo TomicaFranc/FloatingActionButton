@@ -5,7 +5,7 @@ Simple floating action button example.
 
 https://github.com/Clans/FloatingActionButton
 
-# Pictures
+# Screenshots
 
 ![alt tag](https://github.com/TomicaFranc/FloatingActionButton/blob/master/img1.png)
 
